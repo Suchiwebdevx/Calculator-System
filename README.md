@@ -10,6 +10,8 @@ Division
 Clear input
 Simple and easy-to-use interface
 🛠️ Technologies Used
+java 
+jsp
 HTML
 CSS
 JavaScript
